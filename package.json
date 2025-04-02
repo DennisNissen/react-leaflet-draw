@@ -1,6 +1,6 @@
 {
   "name": "react-leaflet-draw",
-  "version": "0.20.6",
+  "version": "1.0.1",
   "description": "React component for leaflet-draw",
   "main": "dist/react-leaflet-draw.js",
   "module": "dist/esm/index.js",
@@ -43,8 +43,8 @@
     "leaflet": "^1.8.0",
     "leaflet-draw": "^1.0.4",
     "prop-types": "^15.5.2",
-    "react": "^18.0.0",
-    "react-leaflet": "^4.0.0"
+    "react": "^19.0.0",
+    "react-leaflet": "^5.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
